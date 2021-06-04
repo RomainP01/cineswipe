@@ -1,0 +1,7 @@
+{
+    "name": "CineSwipe",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
